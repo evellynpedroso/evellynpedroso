@@ -2,20 +2,23 @@
 **Desenvolvedora de Software**  
 
 Me chamo Evellyn, tenho 20 anos e sou natural de São Paulo.  
-Sou estudante de **Engenharia de Software** na **Universidade Católica de Salvador**.  
-Além de desenvolvedora, também sou **professora de inglês e espanhol**.  
+Sou estudante de Engenharia de Software na Universidade Católica de Salvador.  
+Além de desenvolvedora, também sou professora de inglês e espanhol.  
 
-## 📊 Estatísticas  
-
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evellynpedroso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evellynpedroso&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=evellynpedroso&theme=tokyonight" alt="streak stats"/>
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evellynpedroso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evellynpedroso&layout=compact&langs_count=7&theme=tokyonight"/>
+      </td>
+    </tr>
+  </table>
 </p>
-## 👩‍💻 Linguagens que utilizo  
+ 
 
 <p align="left">
   <a href="https://www.java.com/" target="_blank">
@@ -34,11 +37,6 @@ Além de desenvolvedora, também sou **professora de inglês e espanhol**.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
   </a>
 </p>
----
-## ✨ Objetivos  
--  Melhorar minhas habilidades de programação  
--  Contribuir em projetos open source  
--  Fazer boas conexões que possam me ajudar neste processo   
 
 ---
 ## 🗺 Conecte-se comigo  
