@@ -13,6 +13,18 @@ Além de desenvolvedora, também sou **professora de inglês e espanhol**.
 - 🌍 Fazer boas conexões  
 
 ---
+## 📊 Estatísticas  
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evellynpedroso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evellynpedroso&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evellynpedroso&theme=tokyonight" alt="streak stats"/>
+</p>
+
+---
 
 ## 👩‍💻 Linguagens que utilizo  
 
@@ -32,19 +44,6 @@ Além de desenvolvedora, também sou **professora de inglês e espanhol**.
   <a href="https://dev.mysql.com/doc/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
   </a>
-</p>
-
----
-
-## 📊 Estatísticas  
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evellynpedroso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evellynpedroso&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evellynpedroso&theme=tokyonight" alt="streak stats"/>
 </p>
 
 ---
