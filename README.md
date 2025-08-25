@@ -5,14 +5,6 @@ Me chamo Evellyn, tenho 20 anos e sou natural de São Paulo.
 Sou estudante de **Engenharia de Software** na **Universidade Católica de Salvador**.  
 Além de desenvolvedora, também sou **professora de inglês e espanhol**.  
 
----
-
-## ✨ Objetivos  
-- 📈 Melhorar minhas habilidades de programação  
-- 🤝 Contribuir em projetos open source  
-- 🌍 Fazer boas conexões  
-
----
 ## 📊 Estatísticas  
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
@@ -23,9 +15,6 @@ Além de desenvolvedora, também sou **professora de inglês e espanhol**.
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=evellynpedroso&theme=tokyonight" alt="streak stats"/>
 </p>
-
----
-
 ## 👩‍💻 Linguagens que utilizo  
 
 <p align="left">
@@ -45,9 +34,13 @@ Além de desenvolvedora, também sou **professora de inglês e espanhol**.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
   </a>
 </p>
+---
+## ✨ Objetivos  
+-  Melhorar minhas habilidades de programação  
+-  Contribuir em projetos open source  
+-  Fazer boas conexões que possam me ajudar neste processo   
 
 ---
-
 ## 🗺 Conecte-se comigo  
 
 [![Linkedin Badge](https://img.shields.io/badge/-Evellyn%20Miranda-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evellyn-miranda-3ab790224)](https://www.linkedin.com/in/evellyn-miranda-3ab790224)  
