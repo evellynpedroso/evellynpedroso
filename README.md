@@ -1,17 +1,20 @@
-## 💻 Evellyn Pedroso
-** 'Desenvolvedora de Software'
+## 💻 Evellyn Pedroso  
+**Desenvolvedora de Software**  
 
-Me chamo Evellyn tenho 20 anos. Sou natural de São Paulo,
-sou estuadnte de Engenharia de Software,
-na Universiade Católica do Salvador, Em Salvador-Ba
-E além de desenvolvedora Sou também professora de inglês e espanhol.
+Me chamo Evellyn, tenho 20 anos e sou natural de São Paulo.  
+Sou estudante de **Engenharia de Software** na **Universidade Católica de Salvador**.  
+Além de desenvolvedora, também sou **professora de inglês e espanhol**.  
 
-##✨Objetivos
--Melhorar minhas habilidades de programação
--Contribuir em projetos open source 
--Fazer boas conexões 
+---
 
-### 👩‍💻Lenguages I use 
+## ✨ Objetivos  
+- 📈 Melhorar minhas habilidades de programação  
+- 🤝 Contribuir em projetos open source  
+- 🌍 Fazer boas conexões  
+
+---
+
+## 👩‍💻 Linguagens que utilizo  
 
 <p align="left">
   <a href="https://www.java.com/" target="_blank">
@@ -31,7 +34,9 @@ E além de desenvolvedora Sou também professora de inglês e espanhol.
   </a>
 </p>
 
-## 📊 Estatísticas
+---
+
+## 📊 Estatísticas  
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -42,8 +47,9 @@ E além de desenvolvedora Sou também professora de inglês e espanhol.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical" alt="streak stats"/>
 </p>
 
+---
 
-### 🗺 Conecte-se comigo
-[![Linkedin Badge](https://img.shields.io/badge/-Evellyn%20Miranda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evellyn-miranda-3ab790224)](https://www.linkedin.com/in/evellyn-miranda-3ab790224)
-[![Gmail Badge](https://img.shields.io/badge/-SeuEmailAqui-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evellynpstudy@gmail.com)](mailto:seuemail@gmail.com)
--->
+## 🗺 Conecte-se comigo  
+
+[![Linkedin Badge](https://img.shields.io/badge/-Evellyn%20Miranda-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evellyn-miranda-3ab790224)](https://www.linkedin.com/in/evellyn-miranda-3ab790224)  
+[![Gmail Badge](https://img.shields.io/badge/-evellynpstudy@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:evellynpstudy@gmail.com)](mailto:evellynpstudy@gmail.com)
