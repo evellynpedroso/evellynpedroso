@@ -35,11 +35,5 @@ Além de desenvolvedora, também sou professora de inglês e espanhol.
 [![Linkedin Badge](https://img.shields.io/badge/-Evellyn%20Miranda-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evellyn-miranda-3ab790224)](https://www.linkedin.com/in/evellyn-miranda-3ab790224)  
 [![Gmail Badge](https://img.shields.io/badge/-evellynpstudy@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:evellynpstudy@gmail.com)](mailto:evellynpstudy@gmail.com)
 ---
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evellynpedroso&show_icons=true&theme=tokyonight)
-
-
----
 
 
