@@ -34,32 +34,12 @@ Além de desenvolvedora, também sou professora de inglês e espanhol.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Evellyn%20Miranda-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evellyn-miranda-3ab790224)](https://www.linkedin.com/in/evellyn-miranda-3ab790224)  
 [![Gmail Badge](https://img.shields.io/badge/-evellynpstudy@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:evellynpstudy@gmail.com)](mailto:evellynpstudy@gmail.com)
+---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evellynpedroso&show_icons=true&theme=tokyonight)
+
 
 ---
-name: Generate Datas
 
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    name: Jobs to update datas
-    runs-on: ubuntu-latest
-    steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: rafaballerini
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
 
